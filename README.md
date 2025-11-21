@@ -20,6 +20,7 @@ The project includes:
 - Performance audits using Lighthouse
 - Accessibility audits using axe-core
 - Debugging and assertion refinement
+- Screenshots of running test specs on cypress
 
 
 Tools used and their purposes:
